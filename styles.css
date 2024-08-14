@@ -67,6 +67,7 @@ select {
     color: var(--darkest-color);
     background-color: var(--accent-color);
     border-radius: 7px;
+    text-align: center;
 }
 footer {
     grid-column: 1 / 4;
